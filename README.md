@@ -1,6 +1,6 @@
-I'm a Doctoral intern at <a href="https://weblidi.info.unlp.edu.ar/en/" class="link">III-LIDI</a> in the fields of Deep Learning and AI applied to Sign Language Translation (SLT).
-During my Ph.D, I developed the <a href="https://midusi.github.io/LSA-T/" class="link">LSA-T dataset</a>, the first large-scale dataset for LSA video translation, and also been part of the creation of <a href="https://app.seni.ar" class="link">Seni.ar</a>, a platform for exploring and collaborating via crowdsourcing with LSA-T.
-Now, I'm focused on the development and training of neural SLT models over LSA-T and other databases.
+I'm a Doctoral intern at <a href="https://weblidi.info.unlp.edu.ar/en/" class="link">III-LIDI</a> in Deep Learning and AI applied to Sign Language Translation (SLT).
+During my Ph.D., I developed the <a href="https://midusi.github.io/LSA-T/" class="link">LSA-T dataset</a>, the first large-scale dataset for LSA video translation, and also been part of the creation of <a href="https://app.seni.ar" class="link">Seni.ar</a>, a platform for exploring and collaborating via crowdsourcing with LSA-T.
+Now, I'm focused on developing and training neural SLT models over LSA-T and other databases.
 
 I also work as Lead AI/ML Instructor at <a href="https://anyoneai.com" class="link">Anyone AI</a> and as a Graduate Teaching Assistant at <i>Computing Theory and Program Verification</i> at <a href="https://www.info.unlp.edu.ar" class="link">Facultad de Informática - UNLP</a>.
 
