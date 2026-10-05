@@ -1,20 +1,11 @@
-I'm a Doctoral intern at <a href="https://weblidi.info.unlp.edu.ar/en/" class="link">III-LIDI</a> in Deep Learning and AI applied to Sign Language Translation (SLT).
-During my Ph.D., I developed the <a href="https://midusi.github.io/LSA-T/" class="link">LSA-T dataset</a>, the first large-scale dataset for LSA video translation, and also been part of the creation of <a href="https://app.seni.ar" class="link">Seni.ar</a>, a platform for exploring and collaborating via crowdsourcing with LSA-T.
-Now, I'm focused on developing and training neural SLT models over LSA-T and other databases.
+I'm a researcher in **deep learning applied to Sign Language Translation (SLT)**. I did my PhD in Computer Science at [III-LIDI](https://weblidi.info.unlp.edu.ar/en/), Facultad de Informática, UNLP, where I'm now a postdoctoral fellow working on multilingual SLT datasets and models.
 
-I also work as Lead AI/ML Instructor at <a href="https://anyoneai.com" class="link">Anyone AI</a> and as a Graduate Teaching Assistant at <i>Computing Theory and Program Verification</i> at <a href="https://www.info.unlp.edu.ar" class="link">Facultad de Informática - UNLP</a>.
+My work focuses on developing, training and interpreting deep learning models for SLT, mainly pose-based ones, and on the data they need. I developed the [LSA-T dataset](https://midusi.github.io/LSA-T/), the first large-scale dataset for Argentinian Sign Language (LSA) video translation. This work has been published at NeurIPS and CVPR workshops, the Workshop on Sign Language Processing at IJCNLP-AACL, IBERAMIA, and in Applied Soft Computing and JCS&T.
 
-<!--
-**pedroodb/pedroodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Code**
 
-Here are some ideas to get you started:
+- [LSA-T](https://github.com/midusi/LSA-T): the LSA-T dataset
+- [posecraft](https://github.com/pedroodb/posecraft): Python library to load and transform pose keypoints
+- [slt_datasets](https://github.com/pedroodb/slt_datasets): loader for sign language translation datasets in several languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Google Scholar](https://scholar.google.com/citations?user=U7hFSagAAAAJ) · [ORCID](https://orcid.org/0000-0001-7197-8602) · [Hugging Face](https://huggingface.co/pedroodb)
